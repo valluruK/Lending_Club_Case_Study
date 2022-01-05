@@ -1,6 +1,6 @@
-# Lending-Club-Case-Study
+# Lending Club Case Study
 
-# Problem Statement
+## Problem Statement
 A consumer finance company specialises in lending various types of loans to urban customers. When the company receives a loan application, it has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
 
  - If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
@@ -11,7 +11,7 @@ The aim is to identify patterns which indicate if a person is likely to default,
 
 
  
-# Business Objectives
+## Business Objectives
 When a person applies for a loan, there are two types of decisions that could be taken by the company:
 
 - Loan accepted: If the company approves the loan, there are 3 possible scenarios described below:
@@ -26,7 +26,7 @@ When a person applies for a loan, there are two types of decisions that could be
 
 
 
-# Business Objectives  
+## Business Objectives  
 
 Lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). The credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed.  
 
@@ -44,7 +44,7 @@ In this case study, we will use EDA to understand how consumer attributes and lo
 #### Step 5: Recommendations/Results  
 
 
-### Contributors
+##### Contributors
 - Kiran Kumar Valluru
 - Clinton Gomes
 
@@ -54,7 +54,7 @@ In this case study, we will use EDA to understand how consumer attributes and lo
 
 
 
-##### Developed as part of the Exploratory Data Analysis Module required for Post Graduate Diploma in Machine Learning & AI - IIIT,Bangalore.
+###### Developed as part of the Exploratory Data Analysis Module required for Post Graduate Diploma in Machine Learning & AI - IIIT,Bangalore.
 
 
 
